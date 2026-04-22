@@ -1,0 +1,4 @@
+EMP_ID,EMP_Name,EMP_Salary,EMP_Location,Status
+001,John Son,15000,Thailand,Leader
+002,Kingster Jan,12000,Taiwan,Worker
+003,Wendy Joe,13500,USA,CO-Worker
